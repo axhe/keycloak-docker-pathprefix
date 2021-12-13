@@ -1,4 +1,4 @@
-FROM quay.io/keycloak/keycloak:11.0.3
+FROM quay.io/keycloak/keycloak:15.1.0
 
 USER root
 
